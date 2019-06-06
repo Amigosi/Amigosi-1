@@ -1,2 +1,2 @@
-# MuzejMimara
+# Amigosi
 Aplikacija za muzej Mimaru
