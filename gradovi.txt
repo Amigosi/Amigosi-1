@@ -1,0 +1,4 @@
+Minhen,1500000,Njemacka
+Zagreb,810003,Hrvatska
+Bec,1900000,Austria
+Paris,2140526,Francuska
